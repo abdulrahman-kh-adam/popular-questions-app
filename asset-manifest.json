@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/popular-questions-app/static/css/main.5dcbf1e0.css",
+    "main.js": "/popular-questions-app/static/js/main.c9dad59e.js",
+    "index.html": "/popular-questions-app/index.html",
+    "main.5dcbf1e0.css.map": "/popular-questions-app/static/css/main.5dcbf1e0.css.map",
+    "main.c9dad59e.js.map": "/popular-questions-app/static/js/main.c9dad59e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcbf1e0.css",
+    "static/js/main.c9dad59e.js"
+  ]
+}
